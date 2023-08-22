@@ -1,8 +1,8 @@
-# Mario
+# Super Mario Game
 
 Este é um projeto feito em HTML, CSS e JavaScript com o intuito de treinar conceitos de JavaScript e servir como portifólio.
 
-A idéia do projeto e os conceitos aprendidos vieram do video [video](#).
+A ideia do projeto e os conceitos aprendidos vieram do vídeo [vídeo](#). O repositório consciste em um jogo simples do Super Mario.
 
 ### ✔️ Feito
 ...
@@ -15,3 +15,4 @@ A idéia do projeto e os conceitos aprendidos vieram do video [video](#).
 - Ampliar a fase e por um fundo
 - Sistema de moedas e de vidas
 - Sistema de pulos nos canos
+
